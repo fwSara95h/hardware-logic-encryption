@@ -1,0 +1,18 @@
+# Ignore unorganized project files
+gradProjFiles/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ignore cursor-specific files
+.cursor/
+
+# Ignore planning document (temporary)
+project_plan.md 
