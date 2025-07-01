@@ -1,3 +1,7 @@
+![Project Poster](./Poster.png)
+
+---
+
 # Design and Simulation of a Hardware Logic Encryption Block for Sequential Circuits
 
 [![University](https://img.shields.io/badge/University-PSUT-blue)](https://www.psut.edu.jo/en)
