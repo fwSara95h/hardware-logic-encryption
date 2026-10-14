@@ -16,3 +16,6 @@ Thumbs.db
 
 # Ignore planning document (temporary)
 project_plan.md 
+
+# Generated HDL simulation binaries and waveforms
+/.aux/hdl/build/
